@@ -1,4 +1,4 @@
-@import "compass/css3";
+
 .item{
   font-family: monospace;
 }
@@ -28,8 +28,21 @@
 img {
   width: 18em;
 }
+.col-md-3{
+  font-family: monospace;
+  text-align: center;
+  padding: 1em;
+}
+.list-group{
+  background-color: darkgray;
+  color: tomato;
+}
+.panel{
+  margin-top:2em;
+}
+/*
 .button {
-    background-color: #4CAF50; /* Green */
+    background-color: #4CAF50;
     border: none;
     color: white;
     padding: 15px 32px;
@@ -38,3 +51,4 @@ img {
     display: inline-block;
     font-size: 16px;
 }
+*/
